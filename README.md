@@ -25,13 +25,13 @@ This portfolio is deployed on Netlify. You can access it [here](#).
 
 ## Screenshot
 
-![Portfolio Screenshot](path/to/screenshot.png)
+![Portfolio Screenshot](public/images/Yes.png)
 
 ## Walkthrough Video
 
 ## Contact
 
-Feel free to reach out via the contact form on the site or connect with me on [LinkedIn](https://linkedin.com/in/YourLinkedIn).
+Feel free to reach out via the contact form on the site.
 
 ---
 
